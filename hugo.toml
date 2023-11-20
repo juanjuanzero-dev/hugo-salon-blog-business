@@ -68,6 +68,9 @@ summaryLength = 30
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = false
 
+    latitude = "-12.043333"
+    longitude = "-77.028333"
+
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "pink"
 
@@ -87,6 +90,9 @@ summaryLength = 30
         <br>United States
       </p>
       """
+    
+    formspree_action = "https://formspree.io/sample/of/endpoint"
+    contact_form_ajax = false
 
 [params.carouselHomepage]
     # All carousel items are defined in their own files. You can find example items

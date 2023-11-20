@@ -1,0 +1,26 @@
+#blog-post .comment .reply {
+    font-family: "Montserrat";
+}
+
+#productMain .sizes a {
+    font-family: "Montserrat";
+}
+
+.breadcrumb {
+    font-family: "Montserrat";
+}
+
+/* scaffolding */
+body {
+    font-family: "Montserrat";
+}
+
+/* labels */
+.label {
+    font-family: "Montserrat";
+}
+
+.logo-text {
+    font-family: "Dancing Script";
+    font-size: xx-large;
+}
